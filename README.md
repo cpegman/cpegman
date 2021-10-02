@@ -1,4 +1,4 @@
- Hi, I’m @Chris P
+ Hi, I’m Chris P
 -I’m interested in building my knowledge of programming 
      as I am new to the field.
 - I’m currently learning Python
